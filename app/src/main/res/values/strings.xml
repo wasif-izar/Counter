@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="content_desc">Image that displays number counter</string>
+    <string name="placeholder_number">0</string>
+    <string name="hint_input">Choose a number to start</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="btn_random">Submit a random starting number</string>
+    <string name="btn_decrement">-</string>
+    <string name="btn_increment">+</string>
+    <string name="placeholder_interval">1</string>
+    <string name="summmary_tv">Your current  operation will be displayed here</string>
+</resources>
