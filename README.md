@@ -6,3 +6,5 @@
 ![3](https://user-images.githubusercontent.com/81978998/130623130-4c08dda3-ca17-4375-af3e-cae14ab544fa.png)
 ![4](https://user-images.githubusercontent.com/81978998/130623136-b9d4fae3-9eb5-4044-b3a1-45a1aac5c52e.png)
 
+img[alt=drawing] { height: 80px; }
+
