@@ -40,7 +40,6 @@ class MainActivity : AppCompatActivity() {
         summary = findViewById(R.id.main_act_tv_summary)
 
     }
-    
 
 
 //    get a number from the editText and display to the screen
